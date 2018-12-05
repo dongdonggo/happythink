@@ -1,0 +1,14 @@
+{
+    "name": "cdsile/happythink",
+    "description": "happthink",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dongdong",
+            "email": "1121190623@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
